@@ -1,0 +1,43 @@
+*{
+    font-family: "Century Gothic", sans-serif !important;
+}
+
+nav{
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+}
+
+section{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.bg-dark-gray{
+    background-color: #343a40;
+    color: #fff;
+}
+
+.bg-light-gray{
+    background-color: #d9d9d9;
+    color: #222;
+}
+
+.bg-white{
+    background-color: #fff;
+    color: #222;
+}
+
+#vantagens img, 
+#cursos img{
+    max-width: 90px;
+    margin: auto !important;
+    /* text-align: center; */
+}
+
+h2{
+    font-weight: bold;
+}
+
+header h2{
+    font-weight: normal;
+}
